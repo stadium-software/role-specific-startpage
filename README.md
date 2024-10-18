@@ -1,6 +1,6 @@
 # Role-Specific StartPage <!-- omit in toc -->
 
-Sometimes we want users with specific roles to land on specific pages when they log in. 
+Sometimes we want users with specific roles to have specific landing pages. 
 
 ![](images/view.gif)
 
