@@ -9,9 +9,6 @@ Initial 1.0
 
 # Setup
 
-## Application Setup
-1. Check the *Enable Style Sheet* checkbox in the application properties
-
 ## Global Script
 1. Create a Global Script called "RoleSpecificStartPages"
 2. Add the input parameters below to the Global Script
